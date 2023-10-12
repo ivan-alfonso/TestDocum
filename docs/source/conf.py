@@ -2,7 +2,7 @@
 
 # -- Project information
 
-project = 'Besser'
+project = 'BESSER'
 copyright = '2023, Luxembourg Institute of Science and Technology (LIST)'
 author = 'list-of-authors'
 
