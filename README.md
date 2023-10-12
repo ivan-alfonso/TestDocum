@@ -6,11 +6,11 @@ This Github template provides a collection of base files for the configuration a
 
 1. Create a new repository in the BESSER-PEARL GitHub organization using this template. You have to set the `Repository template` field to `BESSER-PEARL/template`.
 
-    ![Repositoy Template](docs/images/repositoryTemplate.png)
+    ![Repositoy Template](docs/images/templateSelection.png)
 
 2. Edit the project description. You can do it in the `About` tab of the repository (click on the gear icon). Try to create a descriptive entry for the project, and include at least three tags. If the project has a website, indicate also the URL.
 
-    ![Project Description](docs/images/about.png)
+    ![Project Description](docs/images/about.jpg)
 
 3. In the preovious menu, decide also whether your repository page should include `Releases`, `Packages` or `Environments` tabs. In case of doubt, remove them
 
@@ -34,8 +34,4 @@ This Github template provides a collection of base files for the configuration a
 
 11. Modify the `README.md` file. Once you have done the previous steps, write the README file for your project.
 
-12. This template also provides the base files to deploy the repository documentation using [readthedocs](https://docs.readthedocs.io/en/stable/index.html) tool. In the `docs` folder you can find all the Sphinx documentation sources. For more information on how to connect your repository, import the project, and deploy the documentation in readthedocs, you can follow this [tutorial](https://docs.readthedocs.io/en/stable/tutorial/index.html). Finally, you should get the basic template for BESSER-PEARL projects. You can modify the documentation for your project.
-
-    ![readthedocs template](docs/images/repositoryTemplate.png)
-
-If you do not plan to use redthedocs, remove the `docs` folder and the `.readthedocs.yaml` file.
+12. This template also provides the base files to deploy the repository documentation using [readthedocs](https://docs.readthedocs.io/en/stable/index.html) tool. In the `docs` folder you can find and edit all the Sphinx documentation sources. You can check the documentation generated from this template at the [following link](). For more information on how to connect your repository, customize, and deploy the documentation with readthedocs, you can follow [this tutorial](https://docs.readthedocs.io/en/stable/tutorial/index.html). If you do not plan to use redthedocs, remove the `docs` folder and the `.readthedocs.yaml` file from your repository.
