@@ -32,9 +32,9 @@ This Github template provides a collection of base files for the configuration a
 
 10. If your work is related to a paper, and you want to facilitate its citation, review the `CITATION.cff` file. The provided template will help to fill the gaps, but if you need more help, you can find more information in [Citation File Format](https://citation-file-format.github.io/). Otherwise, just remove the file.
 
-11. Modify the `README.md` file. Once you have done the previous steps, write your the README file for your project.
+11. Modify the `README.md` file. Once you have done the previous steps, write the README file for your project.
 
-12. This template also provides the base files to deploy the repository documentation using [readthedocs](https://docs.readthedocs.io/en/stable/index.html) tool. In the `docs` folder you can find all the Sphinx documentation sources. For more information on how to connect your repository, import the project, and deploy the documentation in readthedocs, you can follow this [tutorial](https://docs.readthedocs.io/en/stable/tutorial/index.html). Finally, you should get the basic template for BESSER-PEARL projects. Now you can modify your documentation for your project.
+12. This template also provides the base files to deploy the repository documentation using [readthedocs](https://docs.readthedocs.io/en/stable/index.html) tool. In the `docs` folder you can find all the Sphinx documentation sources. For more information on how to connect your repository, import the project, and deploy the documentation in readthedocs, you can follow this [tutorial](https://docs.readthedocs.io/en/stable/tutorial/index.html). Finally, you should get the basic template for BESSER-PEARL projects. You can modify the documentation for your project.
 
     ![readthedocs template](docs/images/repositoryTemplate.png)
 
