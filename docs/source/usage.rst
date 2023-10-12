@@ -6,11 +6,11 @@ Usage
 Installation
 ------------
 
-Add installation steps...
+Add installation steps.
 
 .. code-block:: console
 
-   (.venv) $ pip install ...
+   (.venv) $ pip install buml
 
 Configuration
 ----------------
