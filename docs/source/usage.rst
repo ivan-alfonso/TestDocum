@@ -1,19 +1,12 @@
 Usage
 =====
 
-.. _installation:
+
+Requirements
+------------
 
 Installation
 ------------
 
-Add installation steps.
-
-.. code-block:: console
-
-   (.venv) $ pip install buml
-
 Configuration
 ----------------
-
-Add configuration here...
-
